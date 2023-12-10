@@ -1,4 +1,4 @@
-# Button Kontrol Paneli Uygulamas
+# Button Kontrol Paneli Uygulaması
 
 Bu Java uygulaması, bir Swing penceresinde düzenlenmiş bir dizi özel JButton içeriyor. Her bir düğme tıklandığında arka plan rengini değiştiriyor ve en son tıklanan düğmenin referansını saklıyor.
 
